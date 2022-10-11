@@ -1,4 +1,4 @@
-                                                  CLASS TEMPLATE AND APEX PMD
+## **CLASS TEMPLATE AND APEX PMD**
 
 The extension provides the basic class and test class template. Apart from these templates there are few manual steps to be done in order to run Apex PMD containing our own customizable rulesets.
 
