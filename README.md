@@ -17,7 +17,7 @@ The extension provides the basic class and test class template. Apart from these
 
 
 
-````               "-f",
+````            "-f",
                 "html",
                 "-R",
                 "rulesets\\apex\\ruleset.xml",
