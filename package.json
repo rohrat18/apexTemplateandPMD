@@ -2,7 +2,7 @@
 	"name": "apexpmdtemplate",
 	"displayName": "Apex Template and PMD",
 	"description": "Basic Apex Template and PMD",
-	"version": "0.1.1",
+	"version": "0.1.3",
 	"engines": {
 		"vscode": "^1.71.0"
 	},
