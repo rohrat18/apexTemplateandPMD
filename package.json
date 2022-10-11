@@ -2,7 +2,7 @@
 	"name": "apexpmdtemplate",
 	"displayName": "Apex Template and PMD",
 	"description": "Basic Apex Template and PMD",
-	"version": "0.0.8",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.71.0"
 	},
@@ -45,6 +45,7 @@
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
 		"updated": true,
-		"preRelease": false
+		"preRelease": false,
+		"installedTimestamp": 1665471521424
 	}
 }
