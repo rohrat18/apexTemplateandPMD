@@ -5,7 +5,7 @@ The extension provides the basic class and test class template. Apart from these
 # Features
 1. It provides template of the classes that should be followed while creating a new class or test class.
 2. It gives you the overview of the errors where we have done mistake and it will not allow us to deploy to org unless we correct them.
-
+(https://github.com/rohrat18/apexTemplateandPMD/blob/master/images/task%20configure.jpg)
 # How to use
 1. Inorder to use the class template type **"!apextemplate"** and for test class type **"!testtemplate"** you will get the code then continue coding.
 2. Create a folder like "rulesets\apex\apex-ruleset.xml" in the workspace you are currently working and then type **"apexruleset"**.

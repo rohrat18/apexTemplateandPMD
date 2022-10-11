@@ -2,7 +2,7 @@
 	"name": "apexpmdtemplate",
 	"displayName": "Apex Template and PMD",
 	"description": "Basic Apex Template and PMD",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "^1.71.0"
 	},
@@ -13,6 +13,10 @@
 	"categories": [
 		"Snippets"
 	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rohrat18/apexTemplateandPMD.git"
+	},
 	"contributes": {
 		"snippets": [
 			{
