@@ -12,14 +12,15 @@ The extension provides the basic class and test class template. Apart from these
 ![Screenshot](https://github.com/rohrat18/apexTemplateandPMD/blob/master/images/task%20configure.jpg)
 
 4. The error after running Apex PMD can be seen in the form of *.html*,* .txt* or *.xlsx*. We can change the format of our report file how we want to see those errors for easy purpose with detailed information. For example in the task template we can see that there is **Output.html** above that there is a format "-f", here we can specify what format we need for our report file.
+`"-f",
+"html",
+"-R",
+"rulesets\\apex\\ruleset.xml",
+"--report-file",
+"Output.html"`
 
 5. For more information refer this link https://github.com/rohrat18/apexTemplateandPMD
 
 
 
-`               "-f",
-                "html",
-                "-R",
-                "rulesets\\apex\\ruleset.xml",
-                "--report-file",
-                "Output.html"`
+                
