@@ -19,6 +19,7 @@ The extension provides the basic class and test class template. Apart from these
 "rulesets\\apex\\ruleset.xml",
 "--report-file",
 "Output.html"
+`
 
 5. For more information refer this link https://github.com/rohrat18/apexTemplateandPMD
 
