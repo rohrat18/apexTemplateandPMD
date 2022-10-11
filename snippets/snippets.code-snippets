@@ -1,0 +1,35 @@
+{
+    "Basic Apex Code":{
+        "prefix": "!apextemplate",
+        "body": [
+"/*",
+    "Class:" ,          
+    "@Author:",
+    "@Created Date:"  ,
+    "@Description:" ,  
+
+    "Change History",
+"****************************************************************************************************************************",
+"ModifiedBy           Date       Requested By       Description                                         JIRA        Tag",
+"****************************************************************************************************************************",
+
+"****************************************************************************************************************************",
+"*/",
+" ",
+"public class className{",
+"public static methodName();",
+    "try{",
+
+
+    "}",
+    "catch(Exception e){",
+            "System.debug('The Error Message'+e.getMessage)",
+
+    "}",
+
+        "}",
+        ],
+        "description": "Basic Apex class template"
+
+    }
+}

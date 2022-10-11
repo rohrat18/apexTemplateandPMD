@@ -1,0 +1,19 @@
+{
+    "Basic Apex Code":{
+        "prefix": "!testtemplate",
+        "body": [
+"/*",
+        "Class:" ,          
+        "@Author:",
+        "@Created Date:"  ,
+        "@Description:" ,  
+"*/",
+"@isTest",
+"public class classNameTest{",
+"}",
+        ],
+        "description": "basic Apex template"
+
+    }
+}
+

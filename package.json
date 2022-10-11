@@ -1,0 +1,46 @@
+{
+	"name": "apexpmdtemplate",
+	"displayName": "Apex Template and PMD",
+	"description": "Basic Apex Template and PMD",
+	"version": "0.0.5",
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"publisher": "rohitniranjanamath",
+	"author": {
+		"name": "rohitniranjanamath"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "",
+				"path": "./snippets/test.code-snippets"
+			},
+			{
+				"language": "",
+				"path": "./snippets/task.code-snippets"
+			},
+			{
+				"language": "",
+				"path": "./snippets/apexruleset.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4303f351-020d-4d6b-b30e-963f13eb004e",
+		"publisherDisplayName": "Rohit Niranjanamath",
+		"publisherId": "b45f4d2f-18af-4a7b-9734-d6a97f69faad",
+		"isPreReleaseVersion": false,
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"preRelease": false
+	}
+}
