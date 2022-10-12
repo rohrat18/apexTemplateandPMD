@@ -8,7 +8,7 @@ The extension provides the basic class and test class template. Apart from these
 # How to use
 1. Inorder to use the class template type **"!apextemplate"** and for test class type **"!testtemplate"** you will get the code then continue coding.
 2. Create a folder like "rulesets\apex\apex-ruleset.xml" in the workspace you are currently working and then type **"apexruleset"**.
-3. Press _"Ctrl+Shft+P"_ and then start typing Task... you will get a list of task functions select "Task: Configure Default Build task" and once you select that will get a window opened up there type **"task"**. This step of configuring default build task is onle first time, later whenever you want to run this default build task just press _"Ctrl+B"_.
+3. Press _"Ctrl+Shft+P"_ and then start typing Task... you will get a list of task functions select "Task: Configure Default Build task" and once you select that will get a window opened up there type **"task"**. This step of configuring default build task is onle first time, later whenever you want to run this default build task just press _"Ctrl+shft+B"_.
 
     ![Screenshot](https://github.com/rohrat18/apexTemplateandPMD/blob/master/images/task%20configure.jpg)
 
@@ -22,7 +22,7 @@ The extension provides the basic class and test class template. Apart from these
     "Output.html"
     ```
 
-5. The report file in the html format will be opened in any of the default browser you are using in order to open that download Live Server extension and then right clivk on the html file an then click
+5. The report file in the html format will be opened in any of the default browser you are using in order to open that download Live Server extension for easy purpose and then right click on the html file and select **Open with Live Server**
     ![Screenshot](https://github.com/rohrat18/apexTemplateandPMD/blob/master/images/Live%20server.jpg)
     ![Screenshot](https://github.com/rohrat18/apexTemplateandPMD/blob/master/images/Open%20with%20live%20server.jpg)
 
@@ -30,5 +30,4 @@ The extension provides the basic class and test class template. Apart from these
 
 
 
-                
                 
