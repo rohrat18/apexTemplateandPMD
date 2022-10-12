@@ -24,8 +24,11 @@ The extension provides the basic class and test class template. Apart from these
 
 5. The report file in the html format will be opened in any of the default browser you are using in order to open that download Live Server extension and then right clivk on the html file an then click
     ![Screenshot](https://github.com/rohrat18/apexTemplateandPMD/blob/master/images/Live%20server.jpg)
+    ![Screenshot](https://github.com/rohrat18/apexTemplateandPMD/blob/master/images/Open%20with%20live%20server.jpg)
+
 6. For more information refer this link https://github.com/rohrat18/apexTemplateandPMD
 
 
 
+                
                 
